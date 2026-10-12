@@ -1,0 +1,7 @@
+{
+  "name": "OptiLearn - Educational Options Payoff Simulator",
+  "description": "Interactive educational options payoff visualizer and strategy simulator modeled for modern financial education with real-time market quotes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
